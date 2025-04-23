@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2016, v.4002-->
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+ "task.dtd">
+<task id="ExerciseATask-4D03CB1D" xml:lang="en">
+<title>Exercise a Task</title>
+<shortdesc>This is a task with elements to exercise Text thanks to
+the Bob Ross Lorem Ipsum Generator: http://www.bobrosslipsum.com/</shortdesc>
+<prolog>
+<metadata><keywords><indexterm>leaves</indexterm></keywords></metadata>
+</prolog>
+<taskbody>
+<prereq><p>prereq </p><p>We'll put some happy little leaves here and
+there. Almost everything is going to happen for you automatically
+- you don't have to spend any time working or worrying.</p><p>Let's
+make a happy little mountain now. Let's make some happy little clouds
+in our world.</p></prereq>
+<context><p>context</p><p>We'll put some happy little leaves here
+and there. Almost everything is going to happen for you automatically
+- you don't have to spend any time working or worrying. Let's make
+a happy little mountain now. Let's make some happy little clouds in
+our world.</p><p>We don't want to set these clouds on fire. If you
+overwork it you become a cloud killer. There's nothing worse than
+a cloud killer. This is unplanned it really just happens. Learn when
+to stop.</p></context>
+<steps>
+<step><cmd>This is your world, whatever makes you happy you can put
+in it. Go crazy.</cmd>
+<info><p>We'll put some happy little leaves here and there. Almost
+everything is going to happen for you automatically - you don't have
+to spend any time working or worrying. Let's make a happy little mountain
+now. Let's make some happy little clouds in our world.</p><p>We don't
+want to set these clouds on fire. If you overwork it you become a
+cloud killer. There's nothing worse than a cloud killer. This is unplanned
+it really just happens. Learn when to stop.</p></info>
+</step>
+<step><cmd>Just make a decision and let it go.</cmd>
+<choices>
+<choice>We don't want to set these clouds on fire.</choice>
+<choice> If you overwork it you become a cloud killer. </choice>
+<choice>There's nothing worse than a cloud killer.</choice>
+<choice>This is unplanned it really just happens.</choice>
+<choice>Learn when to stop</choice>
+</choices>
+</step>
+</steps>
+</taskbody>
+</task>

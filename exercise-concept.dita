@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2016, v.4002-->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "concept.dtd">
+<concept id="ExerciseATopic-4D0130B4" xml:lang="en">
+<title>Exercise a concept</title>
+<shortdesc>This is a concept with elements to exercise Text thanks to
+the Bob Ross Lorem Ipsum Generator: http://www.bobrosslipsum.com/</shortdesc>
+<prolog>
+<metadata><keywords><indexterm></indexterm></keywords></metadata>
+</prolog>
+<conbody>
+<p>Paragraph. The first step to doing anything is to believe you can
+do it. See it finished in your mind before you ever start. I thought
+today we would make a happy little stream that's just running through
+the woods here.</p>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. It's life. It's interesting.
+It's fun. Volunteering your time; it pays you and your whole community
+fantastic dividends. Sometimes you learn more from your mistakes than
+you do from your masterpieces. Let's make a happy little mountain
+now.</p>
+<ol>
+<li><p>ordered list</p></li>
+<li><p>Trees get lonely too, so we'll give him a little friend. And
+just raise cain.</p></li>
+<li><p>That's what painting is all about. It should make you feel
+good when you paint.</p></li>
+<li><p>Work on one thing at a time. Don't get carried away - we have
+plenty of time. When you buy that first tube of paint it gives you
+an artist license. We'll throw some old gray clouds in here just sneaking
+around and having fun.</p></li>
+<li><p>We're not trying to teach you a thing to copy. We're just here
+to teach you a technique, then let you loose into the world. Trees
+cover up a multitude of sins. We don't make mistakes we just have
+happy little accidents.</p></li>
+</ol>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen.</p>
+<p>It's life. It's interesting. It's fun.</p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends.</p>
+<p>Sometimes you learn more from your mistakes than you do from your
+masterpieces.</p>
+<p>Let's make a happy little mountain now.</p>
+<ul>
+<li><p>unordered list</p></li>
+<li><p>Nice little clouds playing around in the sky. It's almost like
+something out of a fairytale book.</p></li>
+<li><p>Anything you want to do you can do here. Isn't that fantastic?
+You can just push a little tree out of your brush like that. Let's
+put a touch more of the magic here.</p></li>
+<li><p>You can do anything here. So don't worry about it. Just a happy
+little shadow that lives in there. We tell people sometimes: we're
+like drug dealers, come into town and get everybody absolutely addicted
+to painting. It doesn't take much to get you addicted.</p></li>
+</ul>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. Volunteering
+your time; it pays you and your whole community fantastic dividends.
+Sometimes you learn more from your mistakes than you do from your
+masterpieces. Let's make a happy little mountain now.</p>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. Volunteering
+your time; it pays you and your whole community fantastic dividends.
+Sometimes you learn more from your mistakes than you do from your
+masterpieces. Let's make a happy little mountain now.</p>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. Volunteering
+your time; it pays you and your whole community fantastic dividends.
+Sometimes you learn more from your mistakes than you do from your
+masterpieces. Let's make a happy little mountain now.</p>
+<table>
+<title>table title</title>
+<tgroup cols="2"><colspec colname="col1"/><colspec colname="col2"/>
+<tbody>
+<row>
+<entry><p>There isn't a rule. You just practice and find out which
+way works best for you. It's hard to see things when you're too close.
+Take a step back and look.</p></entry>
+<entry><p>All kinds of happy little splashes. Didn't you know you
+had that much power? You can move mountains. You can do anything.
+These little son of a guns hide in your brush and you just have to
+push them out.</p></entry>
+</row>
+<row>
+<entry><p>That's the way I look when I get home late; black and blue.</p
+></entry>
+<entry><p>Exercising the imagination, experimenting with talents,
+being creative; these things, to me, are truly the windows to your
+soul. Everything's not great in life, but we can still find beauty
+in it. Now we can begin working on lots of happy little things.</p
+></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. Volunteering
+your time; it pays you and your whole community fantastic dividends.
+Sometimes you learn more from your mistakes than you do from your
+masterpieces. Let's make a happy little mountain now.</p>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. Volunteering
+your time; it pays you and your whole community fantastic dividends.
+Sometimes you learn more from your mistakes than you do from your
+masterpieces. Let's make a happy little mountain now.</p>
+<simpletable>
+<sthead>
+<stentry>Column 1 heading (simple table)</stentry>
+<stentry>Column 2 heading</stentry>
+</sthead>
+<strow>
+<stentry><p>Anything. As long as you believe. Here we're limited by
+the time we have. You can't have light without dark. You can't know
+happiness unless you've known sorrow.</p></stentry>
+<stentry><p>A thin paint will stick to a thick paint. Anyone can paint.
+In painting, you have unlimited power. You have the ability to move
+mountains. You can bend rivers. But when I get home, the only thing
+I have power over is the garbage.</p></stentry>
+</strow>
+<strow>
+<stentry><p>In your world you have total and absolute power. If you
+don't think every day is a good day - try missing a few. You'll see.
+That's what makes life fun. That you can make these decisions. That
+you can create the world that you want.</p></stentry>
+<stentry><p>This is an example of what you can do with just a few
+things, a little imagination and a happy dream in your heart. Use
+absolutely no pressure. Just like an angel's wing. Paint anything
+you want on the canvas. Create your own world.</p></stentry>
+</strow>
+<strow>
+<stentry><p>That's crazy. I'm sort of a softy, I couldn't shoot Bambi
+except with a camera.</p></stentry>
+<stentry><p>Just let your mind wander and enjoy. This should make
+you happy.</p></stentry>
+</strow>
+<strow>
+<stentry><p>Anytime you learn something your time and energy are not
+wasted.</p></stentry>
+<stentry><p>In nature, dead trees are just as normal as live trees.
+You have to allow the paint to break to make it beautiful.</p></stentry>
+</strow>
+<strow>
+<stentry><p>Maybe we got a few little happy bushes here, just covered
+with snow. This is the way you take out your flustrations. Just think
+about these things in your mind and drop em' on canvas.</p></stentry>
+<stentry><p>This is a happy place, little squirrels live here and
+play. You have to make these big decisions. That's a crooked tree.
+We'll send him to Washington.</p></stentry>
+</strow>
+<strow>
+<stentry><p>many pars in a cell</p><p>Maybe we got a few little happy
+bushes here, just covered with snow. This is the way you take out
+your flustrations. Just think about these things in your mind and
+drop em' on canvas.</p><p>Maybe we got a few little happy bushes here,
+just covered with snow. This is the way you take out your flustrations.
+Just think about these things in your mind and drop em' on canvas.</p
+></stentry>
+<stentry><p>many pars in a cell</p><p>Maybe we got a few little happy
+bushes here, just covered with snow. This is the way you take out
+your flustrations. Just think about these things in your mind and
+drop em' on canvas.</p><p>Maybe we got a few little happy bushes here,
+just covered with snow. This is the way you take out your flustrations.
+Just think about these things in your mind and drop em' on canvas.</p
+></stentry>
+</strow>
+</simpletable>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. </p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. Sometimes you learn more from your mistakes than you do
+from your masterpieces. Let's make a happy little mountain now.</p>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. Volunteering
+your time; it pays you and your whole community fantastic dividends.
+Sometimes you learn more from your mistakes than you do from your
+masterpieces. Let's make a happy little mountain now.</p>
+<dl>
+<dlhead>
+<dthd>Term heading</dthd>
+<ddhd>Description heading  (definition list))</ddhd>
+</dlhead>
+<dlentry>
+<dt>creator decision </dt>
+<dd>You have to make almighty decisions when you're the creator. It's
+a super day, so why not make a beautiful sky?</dd>
+</dlentry>
+</dl>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. </p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. Sometimes you learn more from your mistakes than you do
+from your masterpieces. Let's make a happy little mountain now.</p>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. Volunteering
+your time; it pays you and your whole community fantastic dividends.
+Sometimes you learn more from your mistakes than you do from your
+masterpieces. Let's make a happy little mountain now.</p>
+<fig>
+<title>(Figure title) In this world, everything can be happy. Put
+it in, leave it alone.</title>
+<image href="gerbera.jpg" placement="break" width="2in">
+</image>
+<p>para in a fig </p>
+<simpletable>
+<sthead>
+<stentry>Column 1 heading</stentry>
+<stentry>Column 2 heading</stentry>
+</sthead>
+<strow>
+<stentry>simple table... </stentry>
+<stentry>...in a fig</stentry>
+</strow>
+<strow>
+<stentry>also known as...</stentry>
+<stentry>...a legend table</stentry>
+</strow>
+</simpletable>
+</fig>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. </p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. Sometimes you learn more from your mistakes than you do
+from your masterpieces. Let's make a happy little mountain now.</p>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. Volunteering
+your time; it pays you and your whole community fantastic dividends.
+Sometimes you learn more from your mistakes than you do from your
+masterpieces. Let's make a happy little mountain now.</p>
+<note><p>Note (no type attribute)</p><p>Let's give him a friend too.
+Everybody needs a friend. All you need to paint is a few tools, a
+little instruction, and a vision in your mind.</p></note>
+<note><p>Note/@type=note</p><p>Let's give him a friend too. Everybody
+needs a friend. All you need to paint is a few tools, a little instruction,
+and a vision in your mind.</p></note>
+<note type="attention"><p>Note/@type=attention</p><p>Let's give him
+a friend too. Everybody needs a friend. All you need to paint is a
+few tools, a little instruction, and a vision in your mind.</p></note>
+<note type="caution"><p>Note/@type=caution</p><p>Let's give him a
+friend too. Everybody needs a friend. All you need to paint is a few
+tools, a little instruction, and a vision in your mind.</p></note>
+<note type="danger"><p>Note/@type=danger</p><p>Let's give him a friend
+too. Everybody needs a friend. All you need to paint is a few tools,
+a little instruction, and a vision in your mind.</p></note>
+<note type="fastpath"><p>Note/@type=fastpath</p><p>Let's give him
+a friend too. Everybody needs a friend. All you need to paint is a
+few tools, a little instruction, and a vision in your mind.</p></note>
+<note type="important"><p>Note/@type=important</p><p>Let's give him
+a friend too. Everybody needs a friend. All you need to paint is a
+few tools, a little instruction, and a vision in your mind.</p></note>
+<note type="notice"><p>Note/@type=notice</p><p>Let's give him a friend
+too. Everybody needs a friend. All you need to paint is a few tools,
+a little instruction, and a vision in your mind.</p></note>
+<note type="other"><p>Note/@type=other</p><p>Let's give him a friend
+too. Everybody needs a friend. All you need to paint is a few tools,
+a little instruction, and a vision in your mind.</p></note>
+<note type="remember"><p>Note/@type=remember</p><p>Let's give him
+a friend too. Everybody needs a friend. All you need to paint is a
+few tools, a little instruction, and a vision in your mind.</p></note>
+<note type="restriction"><p>Note/@type=restriction</p><p>Let's give
+him a friend too. Everybody needs a friend. All you need to paint
+is a few tools, a little instruction, and a vision in your mind.</p
+></note>
+<note type="tip"><p>Note/@type=tip</p><p>Let's give him a friend too.
+Everybody needs a friend. All you need to paint is a few tools, a
+little instruction, and a vision in your mind.</p></note>
+<note type="trouble"><p>Note/@type=trouble</p><p>Let's give him a
+friend too. Everybody needs a friend. All you need to paint is a few
+tools, a little instruction, and a vision in your mind.</p></note>
+<note type="warning"><p>Note/@type=warning</p><p>Let's give him a
+friend too. Everybody needs a friend. All you need to paint is a few
+tools, a little instruction, and a vision in your mind.</p></note>
+<draft-comment>draft comment</draft-comment>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. </p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. Sometimes you learn more from your mistakes than you do
+from your masterpieces. Let's make a happy little mountain now.</p>
+<pre>preformatted
+                text
+      here
+ all
+           random
+                            layout</pre>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. Let's make a happy
+little mountain now. It's life. It's interesting. It's fun. </p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. Sometimes you learn more from your mistakes than you do
+from your masterpieces. Let's make a happy little mountain now.</p>
+<p></p>
+<codeblock>codeblock: Let your imagination be your guide. 
+If there's two big trees invariably sooner
+or later there's gonna be a little tree.</codeblock>
+<p>A little happy sunlight shining through there. We don't want to
+set these clouds on fire. You don't have to spend all your time thinking
+about what you're doing, you just let it happen. </p>
+<p></p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. </p>
+<p>Sometimes you learn more from your mistakes than you do from your
+masterpieces. </p>
+<p>Let's make a happy little mountain now. </p>
+<p>We have all at one time or another mixed some mud. When things
+happen - enjoy them. They're little gifts. A tree needs to be your
+friend if you're going to paint him.</p>
+<p>Nothing's gonna make your husband or wife madder than coming home
+and having a snow-covered dinner. A little happy sunlight shining
+through there. We don't want to set these clouds on fire. You don't
+have to spend all your time thinking about what you're doing, you
+just let it happen.It's life. It's interesting. It's fun.  </p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. Sometimes you learn more from your mistakes than you do
+from your masterpieces. Let's make a happy little mountain now. This
+is truly an almighty mountain. </p>
+<p>And I will hypnotize that just a little bit. Maybe there was an
+old trapper that lived out here and maybe one day he went to check
+his beaver traps, and maybe he fell into the river and drowned. Let's
+get wild today. We might as well make some Almighty mountains today
+as well, what the heck. </p>
+<p>inline graphic <image href="hibiscus.jpg" width="1in">
+</image><xref format="html"
+href="https://pixabay.com/en/bananas-fruits-fruit-healthy-1642706/"
+scope="external">image thanks to pixabay</xref>You can do anything
+here - the only pre-requisite is that it makes you happy. If these
+lines aren't straight, your water's going to run right out of your
+painting and get your floor wet.</p>
+<p>Nothing's gonna make your husband or wife madder than coming home
+and having a snow-covered dinner. A little happy sunlight shining
+through there. We don't want to set these clouds on fire. You don't
+have to spend all your time thinking about what you're doing, you
+just let it happen.It's life. It's interesting. It's fun.  </p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. Sometimes you learn more from your mistakes than you do
+from your masterpieces. Let's make a happy little mountain now. This
+is truly an almighty mountain. </p>
+<p>And I will hypnotize that just a little bit. Maybe there was an
+old trapper that lived out here and maybe one day he went to check
+his beaver traps, and maybe he fell into the river and drowned. Let's
+get wild today. We might as well make some Almighty mountains today
+as well, what the heck. </p>
+<p>inline graphic <image align="right" href="hibiscus.jpg"
+width="1in"></image><xref format="html"
+href="https://pixabay.com/en/bananas-fruits-fruit-healthy-1642706/"
+scope="external">image thanks to pixabay</xref>You can do anything
+here - the only pre-requisite is that it makes you happy. If these
+lines aren't straight, your water's going to run right out of your
+painting and get your floor wet.</p>
+<p>Nothing's gonna make your husband or wife madder than coming home
+and having a snow-covered dinner. A little happy sunlight shining
+through there. We don't want to set these clouds on fire. You don't
+have to spend all your time thinking about what you're doing, you
+just let it happen.It's life. It's interesting. It's fun.  </p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. Sometimes you learn more from your mistakes than you do
+from your masterpieces. Let's make a happy little mountain now. This
+is truly an almighty mountain. </p>
+<p>And I will hypnotize that just a little bit. Maybe there was an
+old trapper that lived out here and maybe one day he went to check
+his beaver traps, and maybe he fell into the river and drowned. Let's
+get wild today. We might as well make some Almighty mountains today
+as well, what the heck. </p>
+<p>inline graphic <image align="left" href="hibiscus.jpg"
+width="1in"></image><xref format="html"
+href="https://pixabay.com/en/bananas-fruits-fruit-healthy-1642706/"
+scope="external">image thanks to pixabay</xref>You can do anything
+here - the only pre-requisite is that it makes you happy. If these
+lines aren't straight, your water's going to run right out of your
+painting and get your floor wet.</p>
+<p>Nothing's gonna make your husband or wife madder than coming home
+and having a snow-covered dinner. A little happy sunlight shining
+through there. We don't want to set these clouds on fire. You don't
+have to spend all your time thinking about what you're doing, you
+just let it happen.It's life. It's interesting. It's fun.  </p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. Sometimes you learn more from your mistakes than you do
+from your masterpieces. Let's make a happy little mountain now. This
+is truly an almighty mountain. </p>
+<p>And I will hypnotize that just a little bit. Maybe there was an
+old trapper that lived out here and maybe one day he went to check
+his beaver traps, and maybe he fell into the river and drowned. Let's
+get wild today. We might as well make some Almighty mountains today
+as well, what the heck. </p>
+<p>following this para is an image (not in a figure) in between paras:</p>
+<image href="gerbera.jpg" width="1in"></image>
+<p>Nothing's gonna make your husband or wife madder than coming home
+and having a snow-covered dinner. A little happy sunlight shining
+through there. We don't want to set these clouds on fire. You don't
+have to spend all your time thinking about what you're doing, you
+just let it happen.It's life. It's interesting. It's fun.  </p>
+<p>Volunteering your time; it pays you and your whole community fantastic
+dividends. Sometimes you learn more from your mistakes than you do
+from your masterpieces. Let's make a happy little mountain now. This
+is truly an almighty mountain. </p>
+<p>And I will hypnotize that just a little bit. Maybe there was an
+old trapper that lived out here and maybe one day he went to check
+his beaver traps, and maybe he fell into the river and drowned. Let's
+get wild today. We might as well make some Almighty mountains today
+as well, what the heck. </p>
+<table>
+<title>table title</title>
+<tgroup cols="2"><colspec colname="col1"/><colspec colname="col2"/>
+<tbody>
+<row>
+<entry><p>There isn't a rule. You just practice and find out which
+way works best for you. It's hard to see things when you're too close.
+Take a step back and look.</p></entry>
+<entry><p>All kinds of happy little splashes. Didn't you know you
+had that much power? You can move mountains. You can do anything.
+These little son of a guns hide in your brush and you just have to
+push them out.</p></entry>
+</row>
+<row>
+<entry><p>That's the way I look when I get home late; black and blue.</p
+></entry>
+<entry><p>Exercising the imagination, experimenting with talents,
+being creative; these things, to me, are truly the windows to your
+soul. Everything's not great in life, but we can still find beauty
+in it. Now we can begin working on lots of happy little things.</p
+></entry>
+</row>
+<row>
+<entry><p>We don't have to be concerned about it. We just have to
+let it fall where it will.</p></entry>
+<entry><p>It looks so good, I might as well not stop. You have to
+make those little noises or it won't work. I'm a water fanatic. I
+love water.</p></entry>
+</row>
+<row>
+<entry><p>And right there you got an almighty cloud. Let all these
+things just sort of happen. Any little thing can be your friend if
+you let it be.</p><p>We're trying to teach you a technique here and
+how to use it. Isn't that fantastic?</p></entry>
+<entry><p>We'll make some happy little bushes here. Absolutely no
+pressure. You are just a whisper floating across a mountain. These
+trees are so much fun. I get started on them and I have a hard time
+stopping.</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<p>whole lotta paras....</p>
+<p>This is a happy place, little squirrels live here and play. You
+gotta think like a tree. This is your world, whatever makes you happy
+you can put in it. Go crazy. We don't want to set these clouds on
+fire. If you overwork it you become a cloud killer. There's nothing
+worse than a cloud killer. This is unplanned it really just happens.
+Learn when to stop. </p>
+<p>We'll put some happy little leaves here and there. Almost everything
+is going to happen for you automatically - you don't have to spend
+any time working or worrying. Just make a decision and let it go.
+Let's make a happy little mountain now. Let's make some happy little
+clouds in our world. You've got to learn to fight the temptation to
+resist these things. Just let them happen. Talk to trees, look at
+the birds. Whatever it takes. Let's build an almighty mountain. I
+will take some magic white, and a little bit of Vandyke brown and
+a little touch of yellow. </p>
+<p>You can't make a mistake. Anything that happens you can learn to
+use - and make something beautiful out of it. You can work and carry-on
+and put lots of little happy things in here. Just let go - and fall
+like a little waterfall. Decide where your cloud lives. Maybe he lives
+right in here. Maybe there was an old trapper that lived out here
+and maybe one day he went to check his beaver traps, and maybe he
+fell into the river and drowned .</p>
+<p>A big strong tree needs big strong roots. Trees live in your fan
+brush, but you have to scare them out. Put light against light - you
+have nothing. Put dark against dark - you have nothing. It's the contrast
+of light and dark that each give the other one meaning. Let's have
+a happy little tree in here. You are only limited by your imagination.
+Of course he's a happy little stone, cause we don't have any other
+kind. That's a son of a gun of a cloud. The secret to doing anything
+is believing that you can do it. Anything that you believe you can
+do strong enough, you can do. Anything. As long as you believe. </p>
+<p>Even the worst thing we can do here is good. In life you need colors.
+Just make little strokes like that. Isn't it fantastic that you can
+change your mind and create all these happy things? Let's go up in
+here, and start having some fun This is the time to get out all your
+flustrations, much better than kicking the dog around the house or
+taking it out on your spouse. The only prerequisite is that it makes
+you happy. If it makes you happy then it's good.</p>
+<section><title>section with a title: Be careful. You can always add
+more - but you can't take it away.</title><p>Working it up and down,
+back and forth. Maybe there's a happy little Evergreen that lives
+here. Isn't that fantastic? We'll play with clouds today. Just pretend
+you are a whisper floating across a mountain. The first step to doing
+anything is to believe you can do it. See it finished in your mind
+before you ever start. Each highlight must have it's own private shadow.
+This is the fun part. Let your imagination be your guide. Now then,
+let's play. Paint anything you want on the canvas. Create your own
+world.</p><p>A big strong tree needs big strong roots. Trees live
+in your fan brush, but you have to scare them out. Put light against
+light - you have nothing. Put dark against dark - you have nothing.
+It's the contrast of light and dark that each give the other one meaning.
+Let's have a happy little tree in here. You are only limited by your
+imagination. Of course he's a happy little stone, cause we don't have
+any other kind. That's a son of a gun of a cloud. The secret to doing
+anything is believing that you can do it. Anything that you believe
+you can do strong enough, you can do. Anything. As long as you believe. </p
+><p>Even the worst thing we can do here is good. In life you need
+colors. Just make little strokes like that. Isn't it fantastic that
+you can change your mind and create all these happy things? Let's
+go up in here, and start having some fun This is the time to get out
+all your flustrations, much better than kicking the dog around the
+house or taking it out on your spouse. The only prerequisite is that
+it makes you happy. If it makes you happy then it's good.</p></section>
+<section><title>a whole lotta paragraphs of different sizes and different
+inline markup</title><p>If you <b>don't</b> like it - change it. It's
+your world. If these lines aren't straight, your water's going to
+run right out of your painting and get your floor wet.</p><p>I think
+there's an <i>artist</i> hidden in the bottom of every single one
+of us. Don't fight it, use what happens.</p><p>We don't really <u
+>know</u> where this goes - and I'm not sure we really care. Let that
+brush dance around there and play. We don't have to be <indexterm
+>concerned</indexterm> about it. We just have to let it fall where
+it will.</p><p>We'll <apiname>make</apiname> some happy little bushes
+here. You can do anything here. So don't worry about it. The only
+thing worse than yellow snow is green snow.</p><p>Don't be <codeph
+>afraid</codeph> to make these big <filepath>decisions</filepath>.
+Once you start, they sort of just make themselves. This is an example
+of what you can do with just a few things, a little <ph>imagination</ph
+> and a happy dream in your <text>heart</text>. Those great big fluffy
+clouds.</p><p>Very easy to work these to death. La- da- da- da- dah.
+Just be happy. Didn't you know you had <wintitle>that</wintitle> much
+power? You can move <option>mountains</option>. You can do anything.</p
+><ul>
+<li><p>Just a happy little <uicontrol>shadow</uicontrol> that lives
+in there. Look around, look at what we have. <varname>Beauty</varname
+> is everywhere, you only have to look to see it.</p></li>
+<li><p>And right <userinput>there</userinput> you got an <overline
+>almighty</overline> cloud.</p></li>
+<li><p>You can get <parameterentity>away</parameterentity> with a
+lot.</p></li>
+<li><p>And just raise cain. You can create anything that makes you
+happy.</p></li>
+<li><p>Everybody's <q>different</q>. Trees are different. Let them
+all be individuals.</p></li>
+</ul><p>Even trees need a <sup>friend</sup>. We all need <sub>friends</sub
+>. This is your world. I really <systemoutput>recommend</systemoutput
+> you use odorless thinner or your spouse is gonna run you right out
+into the yard and you'll be working by yourself.</p><p>The man who
+does the best job is the one who is happy at his job. No worries.
+No cares. Just float and <term>wait for the wind</term> to blow you
+around. Let's put some happy trees and bushes back in here.</p><p
+>Do an <tt>almighty</tt> painting with us. Maybe we got a few little
+happy bushes here, just covered with snow. Fluff it up a little and
+hypnotize it. It's life. It's <xmlpi>interesting</xmlpi>. It's fun.</p
+><p>It's almost like <xmlnsname>something</xmlnsname> out of a fairytale
+book. If you've been in <xmlelement>Alaska</xmlelement> less than
+a year you're a Cheechako. How do you make a <xmlatt>round</xmlatt
+> circle with a square knife? That's your <numcharref>challenge</numcharref
+> for the day. Trees grow <markupname>however</markupname> makes them
+happy.</p><p>When things <cmdname>happen</cmdname> - enjoy them. They're
+little gifts. In painting, you have <fn>unlimited</fn> power. You
+have the ability to move mountains. You can bend <keyword>rivers</keyword
+>. But when I get home, the only thing I have <line-through>power</line-through
+> over is the garbage. The least little bit can do so much. It is
+a lot of fun. See <msgnum>there, told you that would</msgnum> be easy.
+I like to beat the brush.</p><p>You want your tree to <synph>have</synph
+> some character. Make it special. Every <textentity>highlight</textentity
+> needs it's own personal shadow. Let's make a nice big leafy tree.
+If what you're doing <tm tmtype="reg">doesn't</tm> make <tm
+tmtype="service">you</tm> happy - you're <tm tmtype="tm">doing</tm
+> the wrong thing.</p></section>
+</conbody>
+</concept>
