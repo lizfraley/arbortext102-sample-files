@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2024, v.4002-->
+<?Pub UDT instructions _comment?>
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<concept id="SnoopDizzleFoShizzle-1E0E15A0" rev="A.1" translate="yes"
+xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Snoop Dizzle Fo Shizzle</title>
+<shortdesc>Lorem ipsum sizzle sit shiznit, consectetuer adipiscing
+elizzle. Nullizzle sapizzle velizzle, aliquet volutpat, suscipizzle
+doggy, gravida vizzle, arcu. Pellentesque get down get down tortizzle.</shortdesc>
+<conbody>
+<fig>
+<title>Cras lorizzle</title>
+<image href="10447755671.svg" scope="local"></image>
+</fig>
+<section><title>Vivamizzle </title><p>Nulla brizzle. Etiam faucibizzle
+pharetra neque. Vestibulum uhuh ... yih! arcu id maurizzle. Break
+yo neck, yall accumsizzle stuff izzle shiznit. Curabitizzle fo shizzle
+mah nizzle fo rizzle, mah home g-dizzle nibh gangsta lectizzle.</p
+><p>In gravida ligula black est. Bling bling <indexterm>ullamcorper</indexterm
+>. Etizzle tempor. Donizzle izzle black things erizzle imperdizzle
+owned. Dizzle mah nizzle ipsizzle. Sizzle dang est id hizzle. Praesent
+pizzle black stuff urna bow wow wow ullamcorpizzle. Integer ghetto
+for sure. Vivamizzle i saw beyonces tizzles and my pizzle went crizzle
+dang vizzle felis. That's the shizzle egizzle justo. Etizzle shiz
+dui in magna get down get down lobortizzle. Morbi placerizzle, arcu
+nizzle my shizz shit, sizzle est ma nizzle nunc, gangsta ornare its
+fo rizzle dolizzle sizzle amizzle . Morbi turpis. Vestibulizzle fizzle
+ipsum fo shizzle izzle the bizzle go to hizzle away its fo rizzle
+ultrices posuere cool Shit; Vestibulizzle vehicula, justo laoreet
+pot hendrerizzle, risus lorizzle gravida nunc, shiz ass dope metizzle
+yippiyo nibh. Duis pretium erat gizzle phat. Phasellizzle uhuh ...
+yih!. Cum socizzle natoque penatibus izzle magnizzle dizzle parturient
+montizzle, brizzle ridiculus <indexterm>check out this</indexterm
+>. Cool et ma nizzle fo shizzle go to hizzle dang congue. Bizzle nizzle
+fo. </p></section>
+<section><title>I'm In The Shizzle Sizzle</title><p>Vivamus tempus
+lacus i'm in the shizzle sizzle. Crunk its fo rizzle dui ac black
+we gonna chung cool. Etizzle break yo neck, yall its fo rizzle stuff.
+Dizzle luctus feugizzle shizzle my nizzle crocodizzle. </p><fig>
+<title>Etizzle tempor</title>
+<image href="10447755671.svg" scope="local"></image>
+</fig><note>Etizzle shiz dui in magna get down get down lobortizzle.
+Morbi placerizzle, arcu nizzle my shizz </note><fig>
+<title>Phasellizzle </title><?Pub Caret -3?>
+<image href="10447755671.svg" scope="local"></image>
+<dl>
+<dlhead>
+<dthd><?Pub Tag template?>Term heading<?Pub /template?></dthd>
+<ddhd><?Pub Tag template?>Description heading<?Pub /template?></ddhd>
+</dlhead>
+<dlentry>
+<dt>Crunk its fo rizzle </dt>
+<dd> Duis pretium erat gizzle phat. <indexterm>Phasellizzle</indexterm
+> uhuh ... yih!. Cum socizzle natoque penatibus izzle magnizzle</dd>
+</dlentry>
+<dlentry>
+<dt>Morbi yo crunk</dt>
+<dd>Doggy laoreet, dope egizzle yo mamma tincidunt, pot sizzle <indexterm
+>bibendum</indexterm> crazy, sure placerizzle quam boom shackalack
+eget mi</dd>
+</dlentry>
+</dl>
+</fig></section>
+</conbody>
+</concept>

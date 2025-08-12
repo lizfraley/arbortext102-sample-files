@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2024, v.4002-->
+<?Pub UDT instructions _comment?>
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<concept id="concept-1-43BF5456712" outputclass="intro2" rev="B.2"
+translate="yes" xml:lang="en-US"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Foreword</title>
+<shortdesc>The Mobile Elevating Work Platform (MEWP) models covered
+in this manual are designed and tested to meet or exceed various compliance
+standards. Please refer to the manufacturer’s nameplate affixed to
+the subject MEWP for specific standard compliance information.</shortdesc>
+<conbody>
+<p>This manual is a very important tool! Keep it with the machine
+at all times.</p>
+<p>The purpose of this manual is to provide owners, users, operators,
+lessors, and lessees with the precautions and operating procedures
+essential for the safe and proper machine operation for its intended
+purpose.</p>
+<p>Due to continuous product improvements, JLG Industries, Inc. reserves
+the right to make specification changes without prior notification.
+Contact JLG Industries, Inc. for updated information.</p>
+<p>Refer to www.JLG.com for Warranty, Product Registration, and other
+machine-related documentation.</p>
+<section><title>Safety Alert Symbols And Safety Signal Words</title
+><fig><image href="10447755671.svg" scope="local">
+</image></fig><p>This is the Safety Alert Symbol. It is used to alert
+you to the potential personal injury hazards. Obey all safety messages
+that follow this symbol to avoid possible injury or death.</p><note
+type="danger"><p>Indicates an imminently hazardous situation. If not
+avoided, will result in serious injury or death. This decal will have
+a red background.</p></note><note type="warning"><p>Indicates a potentially
+hazardous situation. If not avoided, could result in serious injury
+or death. This decal will have an orange background.</p></note><note
+type="caution"><p>Indicates a potentially hazardous situation. If
+not avoided, may result in minor or moderate injury. It may also alert
+against unsafe practices. This decal will have a yellow background.</p
+></note><note type="notice"><p>Indicates information or a company
+policy that relates directly or indirectly to the safety of personnel
+or protection of property.</p></note></section>
+<section><title>Important Notices</title><note type="warning"><p>This
+product must comply with all safety related bulletins. Contact JLG
+Industries, Inc. or the local authorized JLG representative for information
+regarding safety related bulletins which may have been issued for
+this product.</p></note><note type="notice"><p>JLG Industries, Inc.
+sends safety related bulletins to the owner of record of this machine.
+Contact JLG Industries, Inc. to ensure that the current owner records
+are updated and accurate.</p></note><note type="notice"><p>JLG Industries,
+Inc. must be notified immediately in all instances where JLG products
+have been involved in an accident involving bodily injury or death
+or when substantial damage has occurred to personal property or the
+JLG product.</p></note></section>
+<section><title>Product Safety and Reliability</title><sectiondiv
+><term>For:</term><ul>
+<li><p>Accident Reporting</p></li>
+<li><p>Product Safety Publications</p></li>
+<li><p>Current Owner Updates</p></li>
+<li><p>Questions Regarding Product Safety</p></li>
+<li><p>Standards and Regulations Compliance Information</p></li>
+<li><p>Questions Regarding Special Product Applications</p></li>
+<li><p>Questions Regarding Product Modifications</p></li>
+</ul></sectiondiv><sectiondiv><term>Contact:</term><p>Product Safety
+and Reliability Department</p><p>JLG Industries, Inc.</p><p>13224
+Fountainhead Plaza</p><p>Hagerstown, MD 21742</p><p>USA</p><p>or Visit
+www.jlg.com to find your local JLG office.</p></sectiondiv><sectiondiv
+><term>Contact:</term><p>Product Safety and Reliability Department</p
+><p>JLG Industries, Inc.</p><p>13224 Fountainhead Plaza</p><p>Hagerstown,
+MD 21742</p><p>USA</p><p>or Visit www.jlg.com to find your local JLG
+office.</p></sectiondiv><sectiondiv><term>Contact:</term><p>Product
+Safety and Reliability Department</p><p>JLG Industries, Inc.</p><p
+>13224 Fountainhead Plaza</p><p>Hagerstown, MD 21742</p><p>USA</p
+><p>or Visit www.jlg.com to find your local JLG office.</p></sectiondiv
+><sectiondiv><term>In USA:</term><p>Toll Free: 877-JLG-SAFE (877-554-7233)</p
+></sectiondiv><sectiondiv><term>Outside USA:</term><p>Phone: 240-420-2661</p
+><p>Fax: 301-745-3713</p><p>E-mail: ProductSafety@JLG.com</p><?Pub _newline
+?></sectiondiv></section><?Pub Caret -2?>
+<section><title>Customer Feedback</title><p>JLG Industries values
+the opinion of our customers and partners. We encourage you to provide
+feedback on the quality and usability of this technical content by
+emailing us at TechPubs@jlg.com.</p></section>
+</conbody>
+</concept>

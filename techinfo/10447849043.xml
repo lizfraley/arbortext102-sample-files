@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2024, v.4002-->
+<?Pub UDT instructions _comment?>
+<?Pub Inc?>
+<task id="NewNightlyNefariousKnightsOfTheNati-1E165300" rev="A.3"
+translate="yes" xml:lang="en-US"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>New Nightly Nefarious Knights of the Nation</title>
+<shortdesc>Unbowed, Unbent, Unbroken. Forgive my manners. I don't
+see many ladies these days. Lucky for the ladies. Our Sun Shines Bright.
+House Tarly of Horn Hill Can a man still be brave if he's afraid?</shortdesc>
+<taskbody>
+<context>When you play the game of thrones, you win or you die. I
+pledge my life and honor to the Night's Watch, for this night and
+all the nights to come. The rains of castamere.</context>
+<section><title>You Must Wear The Black Even If Its Not Your Color</title
+><note type="danger">That is the only time a man can be brave. Unbowed,
+Unbent, Unbroken. The <indexterm>Dothraki</indexterm> do things in
+their own time, for their own reasons.</note><note type="warning"
+>I would like a trial by combat. The battle of the <indexterm>redgrass</indexterm
+> field. I would like a trial by combat. The War of the 5 kings.</note
+><note>House Tarly of Horn Hill More pigeon pie, please. The bear
+and the maiden fair. You know nothing, Jon Snow. The North remembers.
+The winds of Winter. More pigeon pie, please. When you play the game
+of thrones, you win or you die. I pledge my life and honor to the
+Night's Watch, for this night and all the nights to come. The rains
+of castamere. What is dead may never die.</note><procsteps>
+<procstep>
+<p></p>
+<note>The night is dark and full of terrors. The bear and the maiden
+fair.</note>
+</procstep>
+<procstep>
+<p>The night is dark and full of terrors. The Dothraki do things in
+their own time, for their own reasons.</p>
+<note type="danger">King in the North</note>
+</procstep>
+<procstep>
+<p>The tourney of Ashford Meadows. It is rare to meet a Lannister
+who shares my enthusiasm for dead Lannisters. The rains of castamere.
+The winds of Winter. King in the North. </p>
+</procstep>
+<procstep>
+<p>When you play the game of thrones, you win or you die. The rains
+of castamere. A dream of Spring. The Dothraki do things in their own
+time, for their own reasons.<indexterm> Dunc the Lunk</indexterm>,
+thick as a castle wall.</p>
+<note type="warning">Winter is coming</note>
+<p>You know nothing, Jon Snow.</p>
+<p>When you play the game of thrones, you win or you die. The night
+is dark and full of terrors. Never Resting. Fire and blood.</p>
+</procstep>
+<procstep>
+<p>Bastards are born of passion, aren't they? We don't despise them
+in <indexterm>Dorne</indexterm>. All men must die. Unbowed, Unbent,
+Unbroken.</p>
+<procresult>
+<goto_action>
+<action_desc>The Dothraki do things in their own time, for their own
+reasons. What is dead may never die.</action_desc>
+</goto_action>
+</procresult>
+</procstep>
+</procsteps></section>
+<section><title>Can A Man Still Be Brave If He's Afraid?</title><fig>
+<title>It's Ten Thousand Miles Between Kings Landing And The Wall</title><?Pub
+Caret -3?>
+<image href="10447755671.svg" scope="local"></image>
+</fig><p>A good act does not wash out the bad, nor a bad act the good.
+Each should have its own reward. As High as Honor. What is dead may
+never die. As High as Honor. Words are like wind. Never Resting. A
+good act does not wash out the bad, nor a bad act the good. Each should
+have its own reward. May the Father judge him justly. Our Sun Shines
+Bright. A forked purple lightning bolt, on black field speckled with
+four-pointed stars. Dunc the Lunk, thick as a castle wall. The winds
+of Winter.</p></section>
+<context>A good act does not wash out the bad, nor a bad act the good.
+Each should have its own reward. You know nothing, Jon Snow. A forked
+purple lightning bolt, on black field speckled with four-pointed stars.
+Forgive my manners. I don't see many ladies these days. Lucky for
+the ladies.</context>
+<steps>
+<step><cmd>A Lannister always pays his debts. King in the North. It's
+ten thousand miles between Kings landing and the wall. The wolf and
+the lion.</cmd>
+<choicetable>
+<chhead>
+<choptionhd>Option</choptionhd>
+<chdeschd>Description</chdeschd></chhead>
+<chrow>
+<choption>A Lannister always pays his debts.</choption>
+<chdesc>A Lannister always pays his debts.</chdesc></chrow>
+</choicetable>
+</step>
+<step><cmd>A dream of Spring.<indexterm> King in the North</indexterm
+>. As High as Honor. Can a man still be brave if he's afraid? That
+is the only time a man can be brave.</cmd>
+<substeps>
+<substep><cmd>The bear and the maiden fair. The bear and the maiden
+fair. Never Resting. It's ten thousand miles between Kings landing
+and the wall.</cmd></substep>
+<substep><cmd>You know nothing, <indexterm>Jon Snow</indexterm>. It's
+ten thousand miles between Kings landing and the wall.</cmd>
+<stepresult><p>Fire and blood. The winds of Winter. You know nothing,
+Jon Snow. Dunc the Lunk, thick as a castle wall. The rains of castamere.
+The War of the 5 kings. As High as Honor. You know nothing, Jon Snow.
+Winter is coming. Unbowed, Unbent, Unbroken.</p></stepresult>
+</substep>
+<substep><cmd>A good act does not wash out the bad, nor a bad act
+the good. Each should have its own reward. House <indexterm>Tarly</indexterm
+> of Horn Hill King in the North.<image
+href="10447755671.svg" scope="local"></image></cmd>
+</substep>
+</substeps>
+</step>
+<step><cmd>The tourney of Ashford Meadows. The Dothraki do things
+in their own time, for their own reasons. Fire and blood. The War
+of the 5 kings. And now his watch is ended.</cmd></step>
+<step><cmd>King in the North. As High as Honor.<image
+href="10447755671.svg" scope="local"></image></cmd>
+</step>
+<step><cmd>More <indexterm>pigeon</indexterm> pie, please. </cmd>
+<stepresult><p>We don't despise them in Dorne. The battle of the redgrass
+field. Winter is coming.</p></stepresult>
+</step>
+</steps>
+<example>The battle of the redgrass field. The tourney of Ashford
+Meadows. Unbowed, Unbent, Unbroken. The battle of the redgrass field.
+All men must die. Never Resting. Dunc the Lunk, thick as a castle
+wall. When you play the game of thrones, you win or you die. The night
+is dark and full of terrors. A good act does not wash out the bad,
+nor a bad act the good. Each should have its own <indexterm>reward</indexterm
+>.</example>
+</taskbody>
+<related-links>
+<link format="html" href="https://game-of-thrones-ipsum.com/"
+scope="external"><linktext>Game of Thrones Ipsum</linktext></link>
+</related-links>
+</task>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2024, v.4002-->
+<techinfomap xml:lang="en-US"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfomap.xsd">
+<title>77778888</title>
+<contentref format="dita" href="10447849883.xml" locktitle="yes"
+navtitle="cover page large sample" scope="local" toc="no"
+type="coverpage"></contentref>
+<division format="" locktitle="yes" navtitle="Read This First">
+<contentref format="dita" href="10447850230.xml" locktitle="yes"
+navtitle="Manual History and Other Publications" scope="local" toc="no"
+type="reference"></contentref>
+<contentref format="dita" href="10447850748.xml" locktitle="yes"
+navtitle="Machine Identification (and Other Stuff?)" scope="local"
+toc="no" type="reference"></contentref>
+<contentref format="dita" href="10447850591.xml" locktitle="yes"
+navtitle="Abbreviations and Symbols" scope="local" type="reference">
+</contentref>
+</division>
+<contentref format="dita" href="10447863943.xml" locktitle="yes"
+navtitle="Foreword" scope="local" type="concept"></contentref>
+<toc/>
+<division format="" locktitle="yes" navtitle="Zombies">
+<contentref format="dita" href="10447758618.xml" locktitle="yes"
+navtitle="The Perils of Zombie Insomnia" scope="local" type="reference">
+</contentref>
+<contentref format="dita" href="10447757295.xml" locktitle="yes"
+navtitle="What Would Zombies Do?" scope="local" type="concept">
+</contentref>
+<contentref format="dita" href="10447758586.xml" locktitle="yes"
+navtitle="The Lonely Life of a Zombie" scope="local" type="task">
+</contentref>
+</division>
+<contentref format="dita" href="10447848499.xml" locktitle="yes"
+navtitle="The Quest for the Spanish Gold of the Urca de Lima"
+scope="local" type="task"></contentref>
+<division format="" locktitle="yes" navtitle="Pirate Stuff">
+<contentref format="dita" href="10447768459.xml" locktitle="yes"
+navtitle="The Golden Age of Piracy" scope="local" type="concept">
+</contentref>
+<contentref format="dita" href="10447758777.xml" locktitle="yes"
+navtitle="Nassau — Lawless Town or Last Bastion of Free Will?"
+scope="local" type="reference"></contentref>
+<contentref format="dita" href="10447848528.xml" locktitle="yes"
+navtitle="Tasks of the Boatswain" scope="local" type="task">
+</contentref>
+</division>
+<division format="" locktitle="yes" navtitle="Fizzle Fry My Shizzle">
+<contentref format="dita" href="10447843342.xml" locktitle="yes"
+navtitle="Snoop Dizzle Fo Shizzle" scope="local" type="concept">
+</contentref>
+<contentref format="dita" href="10447842631.xml" locktitle="yes"
+navtitle="Emmy for Em" scope="local" type="task"></contentref>
+<division format="" locktitle="yes"
+navtitle="For the Glory of the Realm (First Edition)">
+<contentref format="dita" href="10447845805.xml" locktitle="yes"
+navtitle="Dragons — Fiery Death Machines or Flying Puppies?"
+scope="local" type="concept"></contentref>
+<division navtitle="A Third Level Division Just For the Fun of It">
+<contentref format="dita" href="10447768459.xml" locktitle="yes"
+navtitle="The Golden Age of Piracy" scope="local" type="concept">
+</contentref>
+<contentref format="dita" href="10447758777.xml" locktitle="yes"
+navtitle="Nassau — Lawless Town or Last Bastion of Free Will?"
+scope="local" type="reference"></contentref>
+<contentref format="dita" href="10447848528.xml" locktitle="yes"
+navtitle="Tasks of the Boatswain" scope="local" type="task">
+</contentref>
+</division>
+<contentref format="dita" href="10447849043.xml" locktitle="yes"
+navtitle="New Nightly Nefarious Knights of the Nation" scope="local"
+type="task"></contentref>
+</division>
+<contentref format="dita" href="10447842860.xml" locktitle="yes"
+navtitle="Y’all Forgot About Dre" scope="local" type="reference">
+</contentref>
+</division>
+<division format="" locktitle="yes"
+navtitle="For the Glory of the Realm (Second Edition)">
+<contentref format="dita" href="10447845805.xml" locktitle="yes"
+navtitle="Dragons — Fiery Death Machines or Flying Puppies?"
+scope="local" type="concept"></contentref>
+<contentref format="dita" href="10447849043.xml" locktitle="yes"
+navtitle="New Nightly Nefarious Knights of the Nation" scope="local"
+type="task"></contentref>
+</division>
+<division format="" locktitle="yes" navtitle="Corpo Slang">
+<contentref format="dita" href="10447844417.xml" locktitle="yes"
+navtitle="Putting Too Many Pins in Things" scope="local" type="concept">
+</contentref>
+<contentref format="dita" href="10447860786.xml" locktitle="yes"
+navtitle="Tasks to Look Busy" scope="local" type="task"></contentref>
+</division><?Pub Caret -1?>
+<division format="" locktitle="yes"
+navtitle="Java Lord and Meat Soldiers">
+<contentref format="dita" href="10447848926.xml" locktitle="yes"
+navtitle="Tasks to Please Your Java Overlord" scope="local" type="task">
+</contentref>
+<contentref format="dita" href="10447849340.xml" locktitle="yes"
+navtitle="Improving Your Complexion Through Coffee and Bacon"
+scope="local" type="reference"></contentref>
+<contentref format="dita" href="10447849477.xml" locktitle="yes"
+navtitle="Meat Popsicle in a Skin Suit" scope="local" type="concept">
+</contentref>
+</division>
+<division format="" locktitle="yes" navtitle="All Things of Randomness">
+<contentref format="dita" href="10447860786.xml" locktitle="yes"
+navtitle="Tasks to Look Busy" scope="local" type="task"></contentref>
+<contentref format="dita" href="10447848499.xml" locktitle="yes"
+navtitle="The Quest for the Spanish Gold of the Urca de Lima"
+scope="local" type="task"></contentref>
+<contentref format="dita" href="10447757295.xml" locktitle="yes"
+navtitle="What Would Zombies Do?" scope="local" type="concept">
+</contentref>
+<contentref format="dita" href="10447849043.xml" locktitle="yes"
+navtitle="New Nightly Nefarious Knights of the Nation" scope="local"
+type="task"></contentref>
+<contentref format="dita" href="10447848528.xml" locktitle="yes"
+navtitle="Tasks of the Boatswain" scope="local" type="task">
+</contentref>
+<contentref format="dita" href="10447842860.xml" locktitle="yes"
+navtitle="Y’all Forgot About Dre" scope="local" type="reference">
+</contentref>
+<contentref format="dita" href="10447844417.xml" locktitle="yes"
+navtitle="Putting Too Many Pins in Things" scope="local" type="concept">
+</contentref>
+</division>
+<division format="" locktitle="yes" navtitle="Appendix">
+<contentref format="dita" href="9857679720.xml" locktitle="yes"
+navtitle="Supplemental Information Only Applicable to CE/UKCA Machines"
+scope="local" type="concept"></contentref>
+<contentref format="dita" href="8904385826.xml" locktitle="yes"
+navtitle="EC Declaration of Conformity - ES2646" scope="local"
+type="concept"></contentref>
+<contentref format="dita" href="8904399120.xml" locktitle="yes"
+navtitle="UKCA Declaration of Conformity - ES2646" scope="local"
+type="concept"></contentref>
+</division>
+<index/></techinfomap>

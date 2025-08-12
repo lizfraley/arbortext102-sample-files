@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2024, v.4002-->
+<?Pub UDT instructions _comment?>
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<task id="TasksOfABoatswain-1E231301" rev="A.1" translate="yes"
+xml:lang="en-US" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Tasks of a Boatswain</title>
+<shortdesc>Mutiny belaying pin draft lanyard ahoy spyglass rigging
+reef hempen halter hardtack. Weigh anchor bilge rat bucko smartly
+Cat o'nine tails scallywag fire ship rope's end coffer parrel. Tender
+hardtack strike colors jury mast hands knave American Main Sink me
+Barbary Coast squiffy. Clap of thunder wherry snow pink Plate Fleet
+topmast grog cog boom loot. Piracy handsomely crow's nest mizzenmast
+sutler jib chantey reef sails brigantine weigh anchor.</shortdesc>
+<taskbody>
+<prereq>Rum scallywag gangway maroon starboard Blimey yawl topsail
+chandler belay. Sea Legs bilge water long boat reef sails lookout
+draught bring a spring upon her cable Jolly Roger tack cutlass.<fig>
+<image href="10447755671.svg" scope="local"></image>
+</fig></prereq>
+<context>Hail-shot killick line driver aye spike. No prey, no pay
+Brethren of the Coast belaying pin red ensign barkadeer deadlights.
+Ballast spyglass barkadeer heave down prow tackle. Wench hands grapple
+spanker maroon Cat o'nine tails. <indexterm>Lateen</indexterm> sail
+barkadeer avast nipper Corsair cable. Cat o'nine tails heave to ho
+wench boom Buccaneer. </context>
+<steps>
+<step><cmd>Scuppers holystone avast black spot loaded to the gunwalls
+man-of-war. Jury <indexterm>mast rigging</indexterm> jack hands to
+go on account code of conduct. </cmd></step>
+<step><cmd>Six pounders lookout sheet <indexterm>interloper</indexterm
+> piracy boatswain. Reef sails gibbet fore ahoy matey Davy Jones'
+Locker. </cmd></step>
+<step><cmd>American Main Jolly Roger list Blimey</cmd>
+<stepresult><p>Brigantine rutters ahoy bilged on her anchor holystone
+hulk. Topmast Jack Ketch long clothes Chain Shot pinnace hornswaggle.</p
+></stepresult>
+<steptroubleshooting><procsteps>
+<procstep>
+<p>Brigantine loot ahoy brig starboard aye.</p>
+</procstep>
+<procstep>
+<p>Brigantine loot ahoy brig starboard aye.</p>
+<note>Doubloon provost measured fer yer chains deadlights blow the
+man down swab. Fore <indexterm>spanker</indexterm> Privateer six pounders
+cable carouser.</note>
+</procstep>
+</procsteps></steptroubleshooting>
+</step>
+<step><cmd>American Main case shot lad chantey topgallant provost.
+Long boat execution dock topmast<image
+href="10447755671.svg" scope="local"></image></cmd>
+</step>
+<step><cmd>Transom mutiny ho main sheet Jack Ketch parley</cmd>
+<substeps>
+<substep><cmd>Nipper stern boatswain salmagundi jolly boat main sheet</cmd>
+</substep>
+<substep><cmd>Cable bilge snow spike Admiral of the <indexterm>Black
+knave</indexterm></cmd></substep>
+</substeps>
+<choices>
+<choice>Dead men tell no tales deadlights marooned yardarm take a
+caulk long</choice>
+<choice>Fire in the hole Letter of Marque measured fer yer chains
+weigh anchor bounty jib.</choice>
+</choices>
+</step>
+<step><cmd>Tackle reef Yellow Jack come about ho loot.</cmd>
+<stepresult>Cable rope's end belay chantey tack Sea Legs. Arr heave
+to boom snow Yellow Jack <indexterm>rum</indexterm>.</stepresult>
+</step>
+<step><cmd>Gangway topgallant ballast pink dance the hempen<indexterm
+> jig port</indexterm>.</cmd></step>
+</steps>
+<result>Grog hornswaggle Pirate Round tender gangway main sheet. Run
+a shot across the bow shrouds tackle broadside avast heave down. Run
+a rig lanyard scuppers ballast trysail fathom. Long boat six pounders
+fathom splice the main brace lee clipper. Rum lee wherry sloop boom
+grog blossom. Long boat brigantine furl Letter of Marque booty list.
+Rum lookout American Main brigantine Plate Fleet belay. Overhaul clipper
+holystone take a caulk rigging rutters. <fig><image
+href="10447755671.svg" scope="local"></image></fig
+></result>
+<example><fig><image href="10447755671.svg"
+scope="local"></image></fig>Brigantine loot ahoy brig starboard aye.
+Jack <indexterm>squiffy</indexterm> spyglass bilge Buccaneer mizzenmast.
+Crack Jennys tea cup pirate walk the plank take a caulk mutiny spike.
+Gaff ahoy ye starboard lugsail lad. Hulk keelhaul loot bilge ho swing
+the lead. Doubloon provost measured fer yer chains deadlights blow
+the man down swab. Fore spanker Privateer six pounders cable carouser.
+American Main case shot lad chantey topgallant provost.</example>
+</taskbody>
+<related-links>
+<link format="html" href="https://pirateipsum.me/#scrollstop"
+scope="external"><linktext>Pirate Ipsum</linktext></link>
+</related-links>
+</task>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2024, v.4002-->
+<?Pub UDT instructions _comment?>
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<concept id="UKCADeclarationOfConformity-8DF301E7" rev="A.1"
+translate="yes" xml:lang="en-US"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd"><?Pub
+_newpage?>
+<title>UKCA Declaration of Conformity</title>
+<conbody>
+<table frame="none">
+<tgroup cols="2"><colspec colname="col1" colsep="0"/><colspec
+colname="col2"/>
+<tbody>
+<row rowsep="0">
+<entry><p><b>Manufacturer</b></p><p>JLG Industries, Inc.</p></entry>
+<entry morerows="4"><p><b>Machine Type</b></p><p>Mobile Elevating
+Work Platform</p><?Pub _newline?><p><b>Model Type</b></p><p>ES2646</p
+><?Pub _newline?><p><b>AB-Number</b></p><p>0463</p><?Pub _newline
+?><p><b>Certificate Number</b></p><p>AVUK4618</p><?Pub _newline?><p
+><b>Approved Body</b></p><p>Amtri Veritas</p><?Pub _newline?><p><b
+>Address</b></p><p>Pierce Street, Macclesfield, SK11 6ER, England</p
+></entry>
+</row>
+<row rowsep="0">
+<entry><p><b>Address</b></p><p>1 JLG Drive</p><p>McConnellsburg, PA
+17233 USA</p></entry>
+</row>
+<row rowsep="0">
+<entry><p><b>Technical File</b></p><p>JLG Industries UK Ltd</p><p
+>Braunstone Frith Industrial Estate</p><p>Unit 3 Sunningdale Road</p
+><p>Leicester, LE3 1UX</p><p>United Kingdom</p></entry>
+</row>
+<row rowsep="0">
+<entry><p><b>Contact/Position</b></p><p>Director of Engineering —
+Europe</p></entry>
+</row>
+<row rowsep="0">
+<entry><p><b>Date/Place</b></p><p>Leicester, United Kingdom</p></entry>
+</row>
+<row>
+<entry nameend="col2" namest="col1"></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section><p><b>Reference Standards</b></p><ul>
+<li><p>EN 55011:2009/A1:2010</p></li>
+<li><p>EN 61000-6-2:2005</p></li>
+<li><p>EN 60204-1:2018</p></li>
+<li><p>EN 280:2013+ A1:2015</p></li>
+<li><p>EN ISO 12100:2010</p></li>
+</ul><p>JLG Industries, Inc. hereby declares that the above mentioned
+machine conforms with the requirements of:</p><ul>
+<li><p>2008 No. 1597 - Supply of Machinery (Safety) Regulations 2008</p
+></li>
+<li><p>2016 No. 1091 - Electromagnetic Compatibility Regulations 20165</p
+></li>
+<li><p>2017 No. 1206 - Radio Equipment Regulations 2017 (if fitted
+with optional equipment)</p></li>
+</ul><?Pub _newline?><note>This declaration conforms with the requirements
+of annex II-A of the Regulations 2008 No. 1597. Any modification of
+the above described machine violates the validity of this declaration.</note
+></section>
+</conbody>
+</concept>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2024, v.4002-->
+<?Pub UDT instructions _comment?>
+<?Pub Inc?>
+<reference id="MachineIdentificationandOtherStuff-1E2D27E8" rev="A.2"
+translate="yes" xml:lang="en-US"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>Machine Identification (and Other Stuff?)</title>
+<shortdesc>Need to write a short description</shortdesc>
+<refbody>
+<example><fig>
+<title>Identification Placard</title><?Pub Caret -3?>
+<image href="10447755671.svg" scope="local"></image>
+<p>Machines are identified by model and in some cases a combination
+of models, serial number (SN) or regional standard (i.e ANSI, CE,CSA).
+Components may also be identified by SN or manufacturer. Common components
+that may be identified by these characteristics are engines and hydraulic
+components.</p>
+</fig></example>
+</refbody>
+</reference>

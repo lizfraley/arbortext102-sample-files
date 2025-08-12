@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2024, v.4002-->
+<?Pub UDT instructions _comment?>
+<?Pub UDT template _font?>
+<?Pub Inc?>
+<concept id="SupplementalInformationOnlyApplicab-8DF2FBB0" rev="A.1"
+translate="yes" xml:lang="en-US"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:ptc:names:arbortext:dita:xsd:techinfo.xsd">
+<title>	 Supplemental Information Only Applicable to CE/UKCA Machines</title>
+<conbody>
+<section><p>The following information is provided in accordance with
+the requirements of the European Machinery Directive 2006/42/EC or
+Supply of Machinery (Safety) Regulations 2008 No. 1597. </p><p>The
+A-Weighted emission sound pressure level at the work platform is less
+than 70 dB (A).</p><p>The guaranteed Sound Power Level (LWA) per European
+Directive 2000/14/EC (Noise Emission in the Environment by Equipment
+for Use Outdoors) or Noise Emission in the Environment by Equipment
+for use Outdoors Regulations 2001 No. 1701 based on test methods in
+accordance with Annex III, Part B, Method 1 and 0 of the directive,
+is 99 dB (A).</p><p>The vibration total value to which the hand-arm
+system is subjected does not exceed 2,5 m/s<sup>2</sup>. The highest
+root mean square value of weighted acceleration to which the whole
+body is subjected does not exceed 0,5 m/s<sup>2</sup>.</p></section>
+</conbody>
+</concept>
